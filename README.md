@@ -1,4 +1,4 @@
-# CODiScan service
+# CODiScan Service
 
 Service allows a mobile device to pair and interact with a CODiScan device.
 
